@@ -1,21 +1,3 @@
-# Create Web3 DApp
-
-[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<!-- <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" /> -->
-   Everything you need to create Web3 Dapps.
-
--   [Creating an App](#creating-an-app) – How to create a new app.
--   [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
-
-Create Web3 DApp works on macOS, Windows, and Linux.<br>
-If something doesn’t work, please [file an issue](https://github.com/alchemyplatform/create-web3-dapp/issues/new).<br>
-If you have questions or need help, please ask in [GitHub Discussions](https://github.com/alchemyplatform/create-web3-dapp/discussions).
-
-
 ## About The Project
 
 Create Web3 DApp is an npx package that allows developers to **create anything** from **a simple, barebones dApp** to a **feature-rich decentralized platform**, in ~2 minutes.
@@ -197,49 +179,3 @@ Here are a few common cases where you might want to try something else:
 All of the above tools can work with little to no configuration.
 
 If you prefer configuring the build yourself, [follow this guide](https://reactjs.org/docs/add-react-to-a-website.html).
-
-## Alchemy
-
-Looking for something similar, but for React Native?<br>
-Check out [Expo CLI](https://github.com/expo/expo-cli).
-
-## Contributing
-
-We'd love to have your helping hand on `create-web3-dapp`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
-
-## Supporting Create Web3 DApp
-
-Create Web3 DApp is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
-
-## Credits
-
-This project exists thanks to all the people who [contribute](CONTRIBUTING.md).<br>
-
-<a href="https://github.com/alchemyplatform/Create-web3-dapp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alchemyplatform/Create-web3-dapp" />
-</a>
-
-## Acknowledgements
-
-We are grateful to the authors of existing related projects for their ideas and collaboration:
-
--   [@vittorivabella](https://github.com/eversmile12)
--   [@alberthu](https://github.com/thatguyintech)
-
-## License
-
-Create React App is open source software [licensed as GNU-AGPL](https://github.com/alchemyplatform/create-web3-dapp/blob/main/LICENSE). 
-
-[contributors-shield]: https://img.shields.io/github/contributors/eversmile12/create-web3-dapp.svg?style=for-the-badge
-[contributors-url]: https://github.com/eversmile12/create-web3-dapp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eversmile12/create-web3-dapp.svg?style=for-the-badge
-[forks-url]: https://github.com/eversmile12/create-web3-dapp/network/members
-[stars-shield]: https://img.shields.io/github/stars/eversmile12/create-web3-dapp.svg?style=for-the-badge
-[stars-url]: https://github.com/eversmile12/create-web3-dapp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eversmile12/create-web3-dapp.svg?style=for-the-badge
-[issues-url]: https://github.com/eversmile12/create-web3-dapp/issues
-[license-shield]: https://img.shields.io/github/license/eversmile12/create-web3-dapp.svg?style=for-the-badge
-[license-url]: https://github.com/eversmile12/create-web3-dapp/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[product-screenshot]: images/screenshot.png
-[product-screenshot-2]: images/screenshot_2.png
